@@ -17,5 +17,4 @@
 - input ,type conversion
 
 ##  How to Run
-# for example
-python project1_movies.py
+python project_name.py
