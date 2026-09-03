@@ -13,5 +13,5 @@ while len(basket) < 3:
     else:
         print("warning - Product not found.")
 
-print("Your basket:", basket)
-print(f"Total price: TL {total_price}")
+print(f"Your basket: {', '.join(basket)}")
+print(f"Total price: {total_price} TL")
