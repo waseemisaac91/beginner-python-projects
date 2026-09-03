@@ -4,7 +4,7 @@ print("Welcome to the Favorite Movie List!")
 
 movies = []
 for i in range(3):
-    movie = input("Enter the name of your favorite movie # {i+1}: ")
+    movie = input(f"Enter the name of your favorite movie # {i+1}: ")
     movies.append(movie)
 
 print("Your favorite movies are:", movies)
