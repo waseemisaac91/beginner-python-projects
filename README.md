@@ -15,8 +15,7 @@
 - Loops, Conditions
 - String Methods
 - input ,type conversion
-- 
 
 ##  How to Run
-# for exanmple
+# for example
 python project1_movies.py
